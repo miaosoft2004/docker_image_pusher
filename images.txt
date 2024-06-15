@@ -1,1 +1,1 @@
-jenkins/jenkins:jdk21
+redis:6.2.6
