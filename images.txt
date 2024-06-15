@@ -1,1 +1,1 @@
-jenkins/jenkins:jdk17
+redis:6.2.13
