@@ -1,1 +1,1 @@
-redis:6.2.6
+nacos/nacos-server:2.0.3
